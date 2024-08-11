@@ -1,0 +1,41 @@
+/* NavBar */
+nav.navbar a.navbar-brand {
+  width: 9%;
+  font-size: 20px;
+  font-weight: 520px;
+}
+span.navbar-text {
+    display: flex;
+    align-items: center;
+}
+
+.nav-link {
+  margin-left: 100px; /* Adjust the value as needed to shift to the right */
+    font-size: 20px !important;
+}
+form div {
+  margin-bottom: 15px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+input, select, textarea {
+  width: 100%;
+  padding: 8px;
+  margin-top: 5px;
+}
+
+button {
+  padding: 10px 15px;
+  background-color: #007BFF;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
